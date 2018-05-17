@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1525998873 source:d:\gustavodm\parcial1lab1\abmpublicaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abmPublicaciones.h"
+	"abmCliente.h"
+	"getsValids.h"
+
+1525980764 source:d:\gustavodm\parcial1lab1\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1525980764 d:\gustavodm\parcial1lab1\getsvalids.h
+
+1525996964 source:d:\gustavodm\parcial1lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"abmCliente.h"
+	"abmPublicaciones.h"
+	"getsValids.h"
+
+1525996890 d:\gustavodm\parcial1lab1\abmcliente.h
+
+1525996870 source:d:\gustavodm\parcial1lab1\abmcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abmCliente.h"
+	"getsValids.h"
+
+1525999050 d:\gustavodm\parcial1lab1\abmpublicaciones.h
+	"abmCliente.h"
+
+1526572835 source:c:\users\liliana\desktop\programacion\parcial1lab1\abmcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abmCliente.h"
+	"getsValids.h"
+
+1526574260 c:\users\liliana\desktop\programacion\parcial1lab1\abmcliente.h
+
+1526572717 c:\users\liliana\desktop\programacion\parcial1lab1\getsvalids.h
+
+1526498801 source:c:\users\liliana\desktop\programacion\parcial1lab1\abmpublicaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abmPublicaciones.h"
+	"abmCliente.h"
+	"getsValids.h"
+
+1526574811 c:\users\liliana\desktop\programacion\parcial1lab1\abmpublicaciones.h
+	"abmCliente.h"
+
+1526572380 source:c:\users\liliana\desktop\programacion\parcial1lab1\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1526572001 source:c:\users\liliana\desktop\programacion\parcial1lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"abmCliente.h"
+	"abmPublicaciones.h"
+	"informes.h"
+	"getsValids.h"
+
+1526576437 source:c:\users\liliana\desktop\programacion\parcial1lab1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abmPublicaciones.h"
+	"abmCliente.h"
+	"getsValids.h"
+
+1526577195 c:\users\liliana\desktop\programacion\parcial1lab1\informes.h
+	"abmCliente.h"
+	"abmPublicaciones.h"
+
